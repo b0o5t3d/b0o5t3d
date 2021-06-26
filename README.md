@@ -1,4 +1,5 @@
 # Hello, I'm b0o5t3d 👋
+Check out some of my repositories below!
 I'm new to github and hope to improve my statistics below!
 
 ---
